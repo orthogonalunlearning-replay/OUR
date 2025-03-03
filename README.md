@@ -78,14 +78,3 @@ This project builds upon the outstanding work done in the following repositories
 - [Selective Synaptic Dampening (SSD)](https://github.com/if-loops/selective-synaptic-dampening)
 
 We gratefully acknowledge the authors of the project for their significant contributions to the field and for making their code available to the community.
-
-## 2 Supplementary Experiments Results
-
-The following are experiments of additional approximate unlearning
-
-<p align="center"> 
-   <img src="experiment_results/additional experiments related to other methods1.png" 
-      width="100%"></p>
-<p align="center"> 
-   <img src="experiment_results/additional experiments related to other methods2.png" 
-      width="100%"></p>
