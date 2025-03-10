@@ -27,7 +27,7 @@ In this repository, you will find:
 ---
 ## ! Project Update Notice
 
-**Active Development Notice:** This repository is currently undergoing active improvements to its text-to-image diffusion model implementation.
+**Active Development Notice:** This repository is currently undergoing active improvements to its **text-to-image diffusion model** implementation.
 
 ## Environment Setup
 
